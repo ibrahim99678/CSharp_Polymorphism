@@ -1,0 +1,7 @@
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\CSharp_Polymorphism\CSharp_Polymorphism\bin\Debug\CSharp_Polymorphism.exe.config
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\CSharp_Polymorphism\CSharp_Polymorphism\bin\Debug\CSharp_Polymorphism.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\CSharp_Polymorphism\CSharp_Polymorphism\bin\Debug\CSharp_Polymorphism.pdb
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\CSharp_Polymorphism\CSharp_Polymorphism\obj\Debug\CSharp_Polymorphism.csproj.AssemblyReference.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\CSharp_Polymorphism\CSharp_Polymorphism\obj\Debug\CSharp_Polymorphism.csproj.CoreCompileInputs.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\CSharp_Polymorphism\CSharp_Polymorphism\obj\Debug\CSharp_Polymorphism.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\CSharp_Polymorphism\CSharp_Polymorphism\obj\Debug\CSharp_Polymorphism.pdb
